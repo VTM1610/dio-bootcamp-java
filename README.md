@@ -1,2 +1,2 @@
 # dio-bootcamp-java
-Material desenvolvido a partir do bootcamp java
+Repositório destinado ao material desenvolvido a partir dos cursos inseridos no bootcamp-java, oferecido pela dio.
